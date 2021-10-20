@@ -1,0 +1,14 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+body{
+    padding: 60px;
+}
+
+input{
+    color: gray;
+    font-size: 1.3rem;
+    width: 100%;
+}
